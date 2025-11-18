@@ -1,6 +1,6 @@
 # Deploy Pocketbase on Railway
 
-[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/V-ogQ7?referralCode=XR5Br6&utm_medium=integration&utm_source=template&utm_campaign=generic)
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/pocketbaserailway?referralCode=XR5Br6&utm_medium=integration&utm_source=template&utm_campaign=generic)
 
 This template includes a go module `pocketbase_railway` (you can find and replace all instances of this with your `github.com/<username>/<project>`) and a volume `/pb_data` which is where Pocketbase stores data.
 
