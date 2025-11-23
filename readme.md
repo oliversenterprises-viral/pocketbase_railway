@@ -4,7 +4,7 @@
 
 This template includes a go module `pocketbase_railway` (you can find and replace all instances of this with your `github.com/<username>/<project>`) and a volume `/pb_data` which is where Pocketbase stores data.
 
-This template supposes that you might want to extend pocketbase at somepoint so it follows the "[use-as-framework](https://pocketbase.io/docs/use-as-framework)" official doc. You could never touch the go side and use this as a normal pocketbase binary deployment, but they option is easily available.
+This template supposes that you might want to extend pocketbase at somepoint so it follows the "[use-as-framework](https://pocketbase.io/docs/use-as-framework)" official doc. You could never touch the go side and use this as a normal pocketbase binary deployment, but the option is easily available.
 
 ## Details
 
